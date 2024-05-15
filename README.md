@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **e-commerce web application **
+ 🔭 I’m currently working on a e-commerce web application 
  
  🌱 I’m currently learning **Next Auth ,Prisma,TypeScript**
 
