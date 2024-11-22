@@ -46,8 +46,6 @@ I love exploring innovative technologies, contributing to open-source projects, 
 <!-- Github Stats   -->
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-
-
 ![Your Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MestiriJacem&theme=radical)
 ![Your Repository's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MestiriJacem&show_icons=true&locale=en&layout=compact&langs_count=50&theme=algolia)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MestiriJacem&count_private=true&theme=algolia" alt="MestiriJacem" /></p>
