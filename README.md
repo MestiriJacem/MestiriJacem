@@ -16,8 +16,8 @@
 <!--## <picture><img src = "assets/about_me.gif" width = 50px></picture> **About me**-->
 **About me**
 
-I'm Mohamed Aziz Ben Ismail a Computer science student at (ESPRIT) in Tunisia 💻 , I'm 25 years old and Content Creator on [Youtube](https://www.youtube.com/c/AzizBenIsmail).
-I am completely passionate about frontend backend development .
+Hi, I'm Jacem Mestiri, a Full Stack JavaScript Developer passionate about creating seamless web and mobile applications. Based in Tunisia, I specialize in both frontend and backend development, leveraging frameworks like React, Node.js, and Next.js to deliver cutting-edge solutions.
+I love exploring innovative technologies, contributing to open-source projects, and continuously expanding my knowledge in the tech world. When I’m not coding, I enjoy creating engaging content and sharing insights with the community.
 
 <!-- Let's Connect..! -->
 # <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
