@@ -48,6 +48,8 @@ I am completely passionate about frontend backend development .
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=MestiriJacem&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
+![Your Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MestiriJacem&theme=radical)
+
 
 ![Your Repository's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MestiriJacem&show_icons=true&locale=en&layout=compact&langs_count=50&theme=algolia)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MestiriJacem&count_private=true&theme=algolia" alt="MestiriJacem" /></p>
