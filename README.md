@@ -34,17 +34,6 @@ I am completely passionate about frontend backend development .
 ![Github Page Visit Count](https://komarev.com/ghpvc/?username=MestiriJacem)
 <img src="https://img.shields.io/badge/Age-28-blue" />
 
-<!-- Ligne  -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-<!-- TODO: Add last video link 
-
-- 🔭 I’m currently working at @Toptal
-- :computer: Most used line of code `git commit -m "Initial Commit"`
-- 🤔 I’m looking for help with Outstanding Video ideas.
-- 📫 How to reach me: aziz.270700@gmail.com.
-- 😄 Pronouns: Sam3oulation,Ismail.
--->
-
 
 <!-- Skills  -->
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
@@ -59,6 +48,7 @@ I am completely passionate about frontend backend development .
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=MestiriJacem&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
+
 ![Your Repository's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MestiriJacem&show_icons=true&locale=en&layout=compact&langs_count=50&theme=algolia)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MestiriJacem&count_private=true&theme=algolia" alt="MestiriJacem" /></p>
 
