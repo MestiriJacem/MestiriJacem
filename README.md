@@ -23,8 +23,8 @@ I am completely passionate about frontend backend development .
 # <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-AzizBenIsmail-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jacemmestiri/) 
-[![Mail Badge](https://img.shields.io/badge/-AzizBenIsmail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:mestirijacemm@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-MestiriJacem-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jacemmestiri/) 
+[![Mail Badge](https://img.shields.io/badge/-MestiriJacem-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:mestirijacemm@gmail.com)
 
 <!-- YouTube Channel Views /GitHub followers /visitors/Age  -->
 
@@ -58,26 +58,14 @@ I am completely passionate about frontend backend development .
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AzizBenIsmail&show_icons=true&locale=en&layout=compact&langs_count=50&theme=algolia)
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=AzizBenIsmail&show_icons=true&theme=radical)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BenIsmail)](https://github.com/anuraghazra/github-readme-stats)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AzizBenIsmail&&theme=algolia" alt="AzizBenIsmail" /></p>
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MestiriJacem&show_icons=true&locale=en&layout=compact&langs_count=50&theme=algolia)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=MestiriJacem&show_icons=true&theme=radical)
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=AzizBenIsmail&theme=react)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MestiriJacem&&theme=algolia" alt="MestiriJacem" /></p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://github-readme-activity-graph.vercel.app/graph?username=MestiriJacem&theme=react)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-<div align="center" >
 
-| Choose your language         | Flags                                                                                                              |
-| -------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
-| [EN-US](./README.md)       | <img width="15%" alt="Node4Devs Logo" title="United States Flag (USA)" src="./assets/images/flags/USA.png" /> |
-| [FR-FRA](./README-FR-FRA.md) | <img width="15%" alt="Node4Devs Logo" title="France Flag (FR)" src="./assets/images/flags/France.png" />        |
-| [AR-SA](./README-AR-SA.md) | <img width="15%" alt="Node4Devs Logo" title="Saudi Flag (SA)" src="./assets/images/flags/saudi_ arabia.jpg" />        |
-
-</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
