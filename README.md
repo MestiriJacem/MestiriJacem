@@ -84,26 +84,12 @@ Last Edited on: 03/09/2024
             <p align="center">
       </p>
         <p align="center">
-          <a href="https://github.com/AzizBenIsmail/">
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AzizBenIsmail&theme=gruvbox&layout=compact&hide_border=true"
+          <a href="https://github.com/MestiriJacem/">
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MestiriJacem&theme=gruvbox&layout=compact&hide_border=true"
           alt="1999AZZAR :: Top Langs by repo" />
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AzizBenIsmail&theme=gruvbox&layout=compact&hide_border=true"
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MestiriJacem&theme=gruvbox&layout=compact&hide_border=true"
           alt="1999AZZAR :: Top Langs by commit" />
           </a>
         </p>
     <br>
 
-## <img src="https://media.giphy.com/media/dxIWYNNVCxFXdP76XE/giphy.gif" width ="25"><b> Trophies</b>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=AzizBenIsmail&theme=nord&column=7)](https://github.com/Naderab/github-profile-trophy)
-
-<br>
-</details>
-
-
-
-
-[reactplaylist]: https://www.youtube.com/watch?v=KxXXEL-k47Y&list=PLvXDmnBbOF7RnYiZvDwl2Pzcs2kfi10wd
-[vscodetutorial]: https://www.youtube.com/watch?v=Bkie2ai8qeE&t=8s
-[htmltutorial]: https://www.youtube.com/watch?v=VK6MXVxOsws&t=27s
-[javascripttutorial]: https://www.youtube.com/watch?v=D-LHKvmX37E
