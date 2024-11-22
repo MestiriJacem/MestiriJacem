@@ -58,12 +58,11 @@ I am completely passionate about frontend backend development .
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MestiriJacem&show_icons=true&locale=en&layout=compact&langs_count=50&theme=algolia)
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=MestiriJacem&show_icons=true&theme=radical)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=MestiriJacem&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
+![Your Repository's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MestiriJacem&show_icons=true&locale=en&layout=compact&langs_count=50&theme=algolia)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MestiriJacem&count_private=true&theme=algolia" alt="MestiriJacem" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MestiriJacem&&theme=algolia" alt="MestiriJacem" /></p>
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=MestiriJacem&theme=react)
+![](https://github-readme-activity-graph.vercel.app/graph?username=MestiriJacem&theme=react&hide_border=true&count_private=true)
 
 
 
