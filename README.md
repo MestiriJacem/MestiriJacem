@@ -64,21 +64,5 @@ I am completely passionate about frontend backend development .
 
 Credit: [Aziz Ben Ismail](https://github.com/AzizBenIsmail) 
 
-Last Edited on: 03/09/2024
-<details> 
-  <summary>  <img src="./assets/giphy.gif" width="30px" alt="Git"/>GitHub Profile Stats </summary>
-  <div>
-  <samp>
-      <br/>
-            <p align="center">
-      </p>
-        <p align="center">
-          <a href="https://github.com/MestiriJacem/">
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MestiriJacem&theme=gruvbox&layout=compact&hide_border=true"
-          alt="1999AZZAR :: Top Langs by repo" />
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MestiriJacem&theme=gruvbox&layout=compact&hide_border=true"
-          alt="1999AZZAR :: Top Langs by commit" />
-          </a>
-        </p>
-    <br>
+
 
