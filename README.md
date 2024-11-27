@@ -24,7 +24,7 @@ I love exploring innovative technologies, contributing to open-source projects, 
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-MestiriJacem-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jacemmestiri/) 
-[![Mail Badge](https://img.shields.io/badge/-MestiriJacem-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:mestirijacemm@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/-MestiriJacem-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:mestirijacemm@gmail.com )
 
 <!-- YouTube Channel Views /GitHub followers /visitors/Age  -->
 
